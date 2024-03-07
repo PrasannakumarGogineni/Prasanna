@@ -1,0 +1,7 @@
+str1 = 'Hello World'
+str2 = 'rld'
+
+if str2 in str1:
+    print("Yes")
+else:
+    print("No")
